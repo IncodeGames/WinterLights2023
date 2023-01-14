@@ -1324,7 +1324,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614673}
   - {fileID: 8926484042661614677}
   m_OutputSlots: []
-  m_Disabled: 1
+  m_Disabled: 0
   attribute: color
   Composition: 0
   SampleMode: 5
