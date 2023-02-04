@@ -312,7 +312,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
     "m_ObjectId": "58b0bfd8af15409fa27c78262ae8e1f5",
     "m_Id": 0,
-    "m_DisplayName": "_Color",
+    "m_DisplayName": "Color",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -400,7 +400,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Texture2DMaterialSlot",
     "m_ObjectId": "732556463c374734adf11f8b1e9d7e2a",
     "m_Id": 0,
-    "m_DisplayName": "_MainTex",
+    "m_DisplayName": "MainTex",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -433,10 +433,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -781.5999145507813,
-            "y": 77.59999084472656,
-            "width": 152.79998779296876,
-            "height": 33.599998474121097
+            "x": -723.0,
+            "y": 130.0,
+            "width": 134.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -622,7 +622,7 @@
     "m_Guid": {
         "m_GuidSerialized": "f4b35022-2256-470e-9dd2-70bab7d821df"
     },
-    "m_Name": "_MainTex",
+    "m_Name": "MainTex",
     "m_DefaultReferenceName": "Texture2D_c2729700836d4137a9208dc3c9689c4d",
     "m_OverrideReferenceName": "_MainTex",
     "m_GeneratePropertyBlock": true,
@@ -650,10 +650,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -547.9999389648438,
-            "y": 71.99999237060547,
+            "x": -547.0,
+            "y": 112.0,
             "width": 208.0,
-            "height": 434.3999938964844
+            "height": 437.0
         }
     },
     "m_Slots": [
@@ -791,9 +791,9 @@
     "m_Guid": {
         "m_GuidSerialized": "33bd9f65-1606-4dad-8bcd-fc4f0830a017"
     },
-    "m_Name": "_Color",
+    "m_Name": "Color",
     "m_DefaultReferenceName": "Color_f9700ae62a394f9496720481e694e72d",
-    "m_OverrideReferenceName": "_Color",
+    "m_OverrideReferenceName": "_BaseColor",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
